@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I’m passionate about building projects, learning
 ## 🛠️ Skills & Tools
 
 **Languages**
-- C  
 - Java  
-- Python  
-- JavaScript  
+- Spring,SpringBoot,Hibernate  
+- HTML,CSS,Bootstrap,JavaScript  
+- ReactJS
 
 **Web Technologies**
 - HTML  
