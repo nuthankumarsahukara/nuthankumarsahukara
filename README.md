@@ -20,14 +20,14 @@ Welcome to my GitHub profile! I’m passionate about building projects, learning
 **Languages**
 - Java  
 - Spring,SpringBoot,Hibernate  
-- HTML,CSS,Bootstrap,JavaScript  
-- ReactJS
+- JavaScript  
+- Oracle SQL
 
 **Web Technologies**
 - HTML  
 - CSS  
-- React (Basics)  
-- Node.js (Basics)  
+- React Js  
+- Bootstrap 
 
 **Tools & Platforms**
 - Git & GitHub  
@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I’m passionate about building projects, learning
 
 - 💼 LinkedIn: *Add your LinkedIn link*  
 - 🌐 Portfolio: *Add your website link*  
-- 📧 Email: *your-email@example.com*  
+- 📧 Email: nuthankumarsahukara@gmail.com  
 
 ---
 
