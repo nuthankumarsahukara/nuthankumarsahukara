@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nuthan Kumar Sahu Kara
+# Hi 👋, I'm Nuthan Kumar SahuKara
 
 🚀 Aspiring Software Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner  
 
